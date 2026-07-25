@@ -35,7 +35,7 @@ Currently exploring [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)'s f
 ### Right now
 
 - Deploying PR Intel
-- Exploring Rocket.Chat's federation layer for GSoC 2027
+- Exploring Rocket.Chat's federation layer  
 - Looking for a paid internship at an Indian product startup — dev tools, B2B SaaS, open-source infra
 
 ---
