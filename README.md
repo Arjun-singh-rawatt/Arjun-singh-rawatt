@@ -4,7 +4,11 @@ I'm a second-year CS student at NIET, Greater Noida that likes to explore new th
 
 ---
 
-### What I'm building
+### PERSONAL PROJECTS
+**🔗 URL Shortener
+Full-stack link shortener — Node.js, Express, EJS, MongoDB Atlas. Handles JWT-based auth,
+admin accounts, and is deployed live on Render.
+🔴 Live: https://url-shortener-vmmf.onrender.com   *(free-tier hosting — first load may take ~30-50s to wake up)*
 
 **[PR Intel](https://github.com/Arjun-singh-rawatt/pr-intel)** — A RAG-based tool that breaks down merged Rocket.Chat PRs in plain language: what the PR does, where it fits in the architecture, and what problem it solves and how. Built the full retrieval pipeline from scratch — BM25 over 621 chunks (PRs, issues, docs), multi-provider AI (free APIs for now) fallback chain (Gemini → Groq → OpenRouter → Ollama), dark-first UI with CSS custom properties. No vector DB, no cloud dependency for retrieval.
 
@@ -20,8 +24,6 @@ In Godot Engine, I got [godot#115514](https://github.com/godotengine/godot/pull/
 
 Also filed [Appsmith #41912](https://github.com/appsmithorg/appsmith/issues/41912) — a button sizing inconsistency between Editor and Dashboard — and a bug in Plane where inline work item creation silently swallows validation errors on title overflow.
 
-Currently exploring [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)'s federation layer (`apps/meteor/app/federation-v2/`) — working toward GSoC 2027.
-
 ---
 
 ### Stack
@@ -33,9 +35,7 @@ Currently exploring [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)'s f
 ---
 
 ### Right now
-
-- Deploying PR Intel
-- Exploring Rocket.Chat's federation layer  
+ 
 - Looking for a paid internship at an Indian product startup — dev tools, B2B SaaS, open-source infra
 
 ---
