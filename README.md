@@ -10,7 +10,7 @@ Full-stack link shortener — Node.js, Express, EJS, MongoDB Atlas. Handles JWT-
 admin accounts, and is deployed live on Render.
 🔴 Live: https://url-shortener-vmmf.onrender.com   *(free-tier hosting — first load may take ~30-50s to wake up)*
 
-**[PR Intel](https://github.com/Arjun-singh-rawatt/pr-intel)** — A RAG-based tool that breaks down merged Rocket.Chat PRs in plain language: what the PR does, where it fits in the architecture, and what problem it solves and how. Built the full retrieval pipeline from scratch — BM25 over 621 chunks (PRs, issues, docs), multi-provider AI (free APIs for now) fallback chain (Gemini → Groq → OpenRouter → Ollama), dark-first UI with CSS custom properties. No vector DB, no cloud dependency for retrieval.
+**[PR Intel](https://github.com/Arjun-singh-rawatt/pr-intell)** — A RAG-based tool that breaks down merged Rocket.Chat PRs in plain language: what the PR does, where it fits in the architecture, and what problem it solves and how. Built the full retrieval pipeline from scratch — BM25 over 621 chunks (PRs, issues, docs), multi-provider AI (free APIs for now) fallback chain (Gemini → Groq → OpenRouter → Ollama), dark-first UI with CSS custom properties. No vector DB, no cloud dependency for retrieval.
 
 Started from a simple idea: if I can't solve an issue, find someone who already did — and learn from how they solved it.
 
